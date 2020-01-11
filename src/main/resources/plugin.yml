@@ -1,0 +1,6 @@
+name: KermitCore
+version: ${project.version}
+main: gq.kermitcraft.kermitcore.Main
+authors: [Pqtato99, UltimateGamer079]
+description: A plugin for KermitCraft
+website: https://kermitcraft.gq
